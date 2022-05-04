@@ -22,6 +22,8 @@ public class Testing {
 			 a++;
 			
 			 System.out.println(text);
+			 
+			 System.out.println("This is to test git integration!");
 		}
 	}
 
